@@ -6,7 +6,7 @@ printf("Hello world");
 
 //User menu here.
 
-//
+//Function for distance here.
 
 
 
